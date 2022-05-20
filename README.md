@@ -1,6 +1,6 @@
-### Hi there 👋
-#### My name is Irina and since 2021 - I have been working as a manual QA engineer.
-**I'm also interested in QA automation.**
+### ✨ Добро пожаловать на мою страницу!
+#### Меня зовут Ирина. В 2021 году я начала свое развитие в области мануального тестирования программного обеспечения.
+**Я также интересуюсь автоматизированным тестированием проектов на Java.**
 <!--
 **IrinaBurtovaya/IrinaBurtovaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
