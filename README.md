@@ -10,7 +10,6 @@ valign="middle">Московский Авиационный Институт</br
 <a>
 <td width="30%" valign="bottom"><img src="/images/guru.jpg"></td><td
 valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a></td></tr>
-![img_1.png](img_1.png)
 
 
 
