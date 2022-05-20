@@ -3,18 +3,22 @@
 **Я также интересуюсь автоматизированным тестированием проектов на Java.**
 
 ### Моё образование:
+<table width="100%" border="0">
+<tr>
+<td width="30%" valign="bottom"><img src="/images/mai.jpg"></td><td
+valign="middle">Московский Авиационный Институт</br>Факультет авиационной техники</br>Инженер</td></tr>
 
-<!--
-**IrinaBurtovaya/IrinaBurtovaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
